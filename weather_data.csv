@@ -1,0 +1,16 @@
+Date,Day_name,Day High Temperature,Day low Temperature ,weather_conditions ,rain_percentage ,wind_speed,wind_direction
+27-01-2024,Saturday,9,9,Partly Cloudy,3,7 km/h,W
+28-01-2024,Sunday,10,10,Cloudy,5,9 km/h,S
+29-01-2024,Monday,11,11,Sunny,5,9 km/h,SE
+30-01-2024,Tuesday,12,12,Partly Cloudy,6,7 km/h,S
+31-01-2024,Wednesday,12,12,Sunny,24,10 km/h,SE
+01-02-2024,Thursday,11,11,Mostly Sunny,14,12 km/h,SE
+02-02-2024,Friday,12,12,Partly Cloudy,6,9 km/h,S
+03-02-2024,Saturday,12,12,Mostly Cloudy,24,10 km/h,SSW
+04-02-2024,Sunday,12,12,Partly Cloudy,14,13 km/h,SE
+05-02-2024,Monday,11,11,Partly Cloudy,24,12 km/h,W
+06-02-2024,Tuesday,9,9,Partly Cloudy,3,12 km/h,WNW
+07-02-2024,Wednesday,8,8,Mostly Sunny,10,12 km/h,WNW
+08-02-2024,Thursday,8,8,Mostly Sunny,12,12 km/h,WNW
+09-02-2024,Friday,8,8,Mostly Sunny,3,10 km/h,WNW
+10-02-2024,Saturday,8,8,Mostly Sunny,3,9 km/h,WNW
